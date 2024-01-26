@@ -1,0 +1,105 @@
+
+.nav ul
+{
+    display:flex;
+    list-style: none;
+    justify-content: space-around;
+    /* background-color: yellowgreen; */
+    flex-wrap: wrap;
+}
+.a
+{
+    margin: 30px 0px 20px 30px;
+}
+body
+{
+    margin: 25px;
+    padding: 40px;
+
+}
+.nav button
+{
+    color: rgb(12, 231, 158);
+    border-color: rgb(68, 185, 185);
+    background-color: rgb(241, 241, 141);
+    border-width: 5px;
+    text-align: center;
+    font-size: 30px;
+    padding: 16px 55px 16px 55px;
+    
+}
+.c button,.l button
+{
+    color: white;
+    background-color: aqua;
+    border-width: 1px;
+    /* text-align: center; */
+    font-size: 15px;
+    padding: 17px 17px 17px 17px;
+}
+.c{
+    
+  /* height: 100vh; */
+  background: linear-gradient(
+    to bottom,
+    paleturquoise 5%,
+    paleturquoise 78%,
+    white 78%,
+    white 108%
+  );
+  /* align-items: center; */
+}
+.k
+{
+    text-align: center;
+}
+#i
+{
+    margin: 30px;
+}
+#s
+{
+    display: flex;
+    margin-left: 200px;
+    flex: wrap;
+
+    /* display: grid;
+
+    grid-template-columns: 60% 40%; */
+}
+#m
+{
+    padding: 60px;
+    margin-left: 200px;
+
+}
+footer
+{
+    background-color: rgb(217, 224, 224);
+}
+#f
+{
+
+    display: flex;
+    flex: 3px:1px:1px:1px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: whitesmoke;
+}
+#f ul{
+    list-style: none;color: black;
+    padding: 20px;
+}
+hr,footer p
+{
+    color: rgb(11, 13, 14);
+}
+#z
+{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+#lk
+{
+    margin bottom: 100px;
+}
